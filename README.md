@@ -1,1 +1,1 @@
-# Arbolbinario-
+# taller 4 Este proyecto me permitió aplicar **pilas y árboles binarios** en una **calculadora de expresiones**, un **graficador de funciones** y un **gestor de contactos**, optimizado para **consola Android con Javacoder**. Aprendí a **transformar ecuaciones**, **evaluarlas recursivamente**, **organizar datos eficientemente**, y **manejar almacenamiento en matrices** sin necesidad de interfaz gráfica. Fue una solución práctica que fortaleció mi comprensión de **estructuras de datos** y **programación orientada a objetos**. 🚀rbolbinario-
